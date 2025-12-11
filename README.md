@@ -1,1 +1,1 @@
-<img src="https://upload.wikimedia.org/wikipedia/commons/c/c5/Ministry_of_Electronics_and_Information_Technology.svg" alt="https://upload.wikimedia.org/wikipedia/commons/c/c5/Ministry_of_Electronics_and_Information_Technology.svg" />
+<img src="https://raw.githubusercontent.com/dushy98/Meity/refs/heads/main/Ministry_of_Electronics_and_Information_Technology.jpg" alt="https://raw.githubusercontent.com/dushy98/Meity/refs/heads/main/Ministry_of_Electronics_and_Information_Technology.jpg" />
